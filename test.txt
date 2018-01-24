@@ -7,5 +7,7 @@ Hmm.
 
 This changes is being made on the master branch.
 
+There is something here that might conflict.
+
 This changes is being made on the testing branch.
 
