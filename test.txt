@@ -4,6 +4,7 @@ I will mess up my commit message
 
 Hmm.
 
+Some more changes.
 
 This changes is being made on the master branch.
 
