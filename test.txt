@@ -1,5 +1,7 @@
 Hello Git
 
+Changes in dev branch
+
 I will mess up my commit message
 
 Hmm.
